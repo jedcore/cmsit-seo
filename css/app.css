@@ -8345,6 +8345,7 @@ h1, h2, h3, h4, h5 {
 
 /*case-studies*/
 .case-studies {
+  border-top: 5px dashed whitesmoke;
   padding-top: 2vh;
   padding-bottom: 2vh;
   background: rgba(23, 23, 23, 0.1);
@@ -8354,9 +8355,10 @@ h1, h2, h3, h4, h5 {
   padding-top: 20px;
 }
 
-.case-studies .sec-title h2 {
+.case-studies .sec-title h1 {
   color: #171717;
   margin-bottom: 2vh;
+  font-weight: 300;
 }
 
 .case-item .panel {

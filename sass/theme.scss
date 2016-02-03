@@ -478,6 +478,7 @@ padding-top: 2vh;
 }
 /*case-studies*/
 .case-studies{
+	border-top: 5px dashed rgba($white1,1);
 	padding-top: 2vh;
 	padding-bottom: 2vh;
 	background: rgba($black,0.1); 
@@ -490,9 +491,10 @@ padding-top: 2vh;
 
 }
 
-.case-studies .sec-title h2{
+.case-studies .sec-title h1{
 		color: $black;
 		margin-bottom: 2vh;
+		font-weight: 300;
 }
 
 .case-item{
