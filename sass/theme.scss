@@ -480,16 +480,18 @@ padding-top: 2vh;
 .case-studies{
 	padding-top: 2vh;
 	padding-bottom: 2vh;
-	background: rgba(#3C474E,0.8); 
+	background: rgba($black,0.1); 
+
 	
 }
 .case-studies .sec-title{
 	@extend .col-md-12;
 	padding-top:20px;
+
 }
 
 .case-studies .sec-title h2{
-		color: $white;
+		color: $black;
 		margin-bottom: 2vh;
 }
 
@@ -534,7 +536,7 @@ padding-top: 2vh;
 
 /*pre-footer*/
 .pre-footers{
-	background: rgba(#363D41,0.8);
+	background: rgba(#25282A,0.8);
 	padding-top: 2vh;
 	padding-bottom: 3vh;
 	color: $white;

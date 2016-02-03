@@ -8347,7 +8347,7 @@ h1, h2, h3, h4, h5 {
 .case-studies {
   padding-top: 2vh;
   padding-bottom: 2vh;
-  background: rgba(60, 71, 78, 0.8);
+  background: rgba(23, 23, 23, 0.1);
 }
 
 .case-studies .sec-title {
@@ -8355,7 +8355,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .case-studies .sec-title h2 {
-  color: #ffffff;
+  color: #171717;
   margin-bottom: 2vh;
 }
 
@@ -8388,7 +8388,7 @@ h1, h2, h3, h4, h5 {
 
 /*pre-footer*/
 .pre-footers {
-  background: rgba(54, 61, 65, 0.8);
+  background: rgba(37, 40, 42, 0.8);
   padding-top: 2vh;
   padding-bottom: 3vh;
   color: #ffffff;

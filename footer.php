@@ -61,7 +61,7 @@
     <div class="container">
       <div class="row">
         <div class="sec-title">
-          <h2>Our case studies</h2>
+          <h2>Our Case Studies</h2>
         </div><!--//sec-title-->
 
         <div class="case-item">
