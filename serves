@@ -1,0 +1,64 @@
+ <a href="https://google.com">
+            <div class="no-gut item-blue" data-toggle="tooltip" data-placement="top" title="Maximize your presence on search engine results pages on a local scale.">
+              <center><img src="<?php bloginfo('template_url');?>/images/services-socialmediamarketing-alt-colors-optimized.png" class="img-responsive"></center>
+              <div class="no-gut-footer no-gut-footer-blue">
+                <span>SOCIAL MEDIA MANAGEMENT</span>
+              </div><!--//no-gut-footer-->
+            </div><!--//no-gut-->
+          </a>
+           <a href="https://google.com">
+            <div class="no-gut item-lightblue">
+              <center><img src="<?php bloginfo('template_url');?>/images/services-seo-alt-colors-optimized.png" class="img-responsive"></center>
+              <div class="no-gut-footer no-gut-footer-lightblue">
+                <span>GOOGLE PLACES OPTIMISATION</span>
+              </div><!--//no-gut-footer-->
+            </div><!--//no-gut-->
+          </a>
+           <a href="https://google.com">
+            <div class="no-gut item-lightgreen">
+              <center><img src="<?php bloginfo('template_url');?>/images/services-analytics-alt-colors-optimized.png" class="img-responsive"></center>
+              <div class="no-gut-footer no-gut-footer-lightgreen">
+                <span>ANALYTICS/REPORTING</span>
+              </div><!--//no-gut-footer-->
+            </div><!--//no-gut-->
+          </a>
+           <a href="https://google.com">
+            <div class="no-gut item-green">
+              <center><img src="<?php bloginfo('template_url');?>/images/services-payperclick-optimized.png" class="img-responsive"></center>
+              <div class="no-gut-footer no-gut-footer-green">
+                <span>PAID ONLINE MARKETING</span>
+              </div><!--//no-gut-footer-->
+            </div><!--//no-gut-->
+          </a>
+           <a href="https://google.com">
+            <div class="no-gut item-red">
+              <center><img src="<?php bloginfo('template_url');?>/images/services-web-design.png" class="img-responsive"></center>
+              <div class="no-gut-footer no-gut-footer-red">
+                <span>WEB DESIGN</span>
+              </div><!--//no-gut-footer-->
+            </div><!--//no-gut-->
+          </a>
+          <a href="https://google.com">
+            <div class="no-gut item-purple">
+              <center><img src="<?php bloginfo('template_url');?>/images/services-content-strategy.png" class="img-responsive"></center>
+              <div class="no-gut-footer no-gut-footer-purple">
+                <span>LINK BUILDING</span>
+              </div><!--//no-gut-footer-->
+            </div><!--//no-gut-->
+          </a>
+           <a href="https://google.com">
+            <div class="no-gut item-purple2">
+              <center><img src="<?php bloginfo('template_url');?>/images/services-conversion-rate-optimization.png" class="img-responsive"></center>
+              <div class="no-gut-footer no-gut-footer-purple2">
+                <span>CONTENT MARKETING</span>
+              </div><!--//no-gut-footer-->
+            </div><!--//no-gut-->
+          </a>
+           <a href="https://google.com">
+            <div class="no-gut item-mud">
+              <center><img src="<?php bloginfo('template_url');?>/images/services-web-development.png" class="img-responsive"></center>
+              <div class="no-gut-footer no-gut-footer-mud">
+                <span>ON-PAGE SEO</span>
+              </div><!--//no-gut-footer-->
+            </div><!--//no-gut-->
+          </a>

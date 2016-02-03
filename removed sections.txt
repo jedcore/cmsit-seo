@@ -1,0 +1,57 @@
+removed sections
+
+<section class="main-features">
+      <div class="container">
+        <div class="row">
+        
+        <!--main-feature-item starts here-->
+          <div class="mf-item">
+            <div class="row">
+              <div class="mf-icon">
+                <div class="icon-holder mf-orange">
+                  <span class="dslc-icon dslc-icon-ext-shield dslc-init-center" style="top: 18px; left: 20.5px; visibility: visible;"></span>
+                </div><!--//icon-holder-->
+              </div><!--//mf-icon-->
+              <div class="mf-content">
+                  <h3>Online Reputation Management</h3>
+                  <p>Analyzing negative materials about your brand and addressing them with sentiment analysis and press release distribution.</p>
+              </div><!--//mf-content-->
+            </div><!--//row-->
+          </div><!--//mf-item-->
+        <!--main-feature-item ends here-->
+
+         <!--main-feature-item starts here-->
+          <div class="mf-item">
+            <div class="row">
+              <div class="mf-icon">
+                <div class="icon-holder mf-blue">
+                  <span class="dslc-icon dslc-icon-ext-basic_mixer2 dslc-init-center" style="top: 18px; left: 20.5px; visibility: visible;"></span>
+                </div><!--//icon-holder-->
+              </div><!--//mf-icon-->
+              <div class="mf-content">
+                  <h3>Conversion Rate Optimization</h3>
+                  <p>Turn your visitors into customers with our team of experts. We'll analyze your website and develop a suitable conversion-rate strategy.</p>
+              </div><!--//mf-content-->
+            </div><!--//row-->
+          </div><!--//mf-item-->
+        <!--main-feature-item ends here-->
+
+         <!--main-feature-item starts here-->
+          <div class="mf-item">
+            <div class="row">
+              <div class="mf-icon">
+                <div class="icon-holder mf-green">
+                  <span class="dslc-icon dslc-icon-ext-linegraph dslc-init-center" style="top: 18px; left: 20.5px; visibility: visible;"></span>
+                </div><!--//icon-holder-->
+              </div><!--//mf-icon-->
+              <div class="mf-content">
+                  <h3>Real-Time Social Media Analytics</h3>
+                  <p>We produce bespoke reports and technical audits that can help your business with specific areas of digital marketing.</p>
+              </div><!--//mf-content-->
+            </div><!--//row-->
+          </div><!--//mf-item-->
+        <!--main-feature-item ends here-->
+
+        </div><!--//row-->
+      </div><!--//container-->
+    </section>
