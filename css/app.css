@@ -8347,7 +8347,7 @@ h1, h2, h3, h4, h5 {
 .case-studies {
   padding-top: 2vh;
   padding-bottom: 2vh;
-  background: #3C474E;
+  background: rgba(60, 71, 78, 0.8);
 }
 
 .case-studies .sec-title {
@@ -8388,7 +8388,7 @@ h1, h2, h3, h4, h5 {
 
 /*pre-footer*/
 .pre-footers {
-  background: #363D41;
+  background: rgba(54, 61, 65, 0.8);
   padding-top: 2vh;
   padding-bottom: 3vh;
   color: #ffffff;
